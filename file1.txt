@@ -1,3 +1,4 @@
 Noi dung file 1
 
 Sua doi boi master
+Sua boi beta
