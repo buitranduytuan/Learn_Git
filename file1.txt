@@ -1,5 +1,4 @@
 Noi dung file 1
 
-Sua doi boi master-TuanBTD
-
-Sua doi boi TuanBTD
+Sua doi boi master
+Sua boi beta
